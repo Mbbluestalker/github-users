@@ -21,10 +21,17 @@ This is a simple React app that fetches and displays a list of GitHub users usin
 
     cd github-users-react-app
 
+   ```
+
 2. Install dependencies:
 
+   ```bash
     npm install
+
+   ```
 
 3. Run the development server:
 
+   ```bash
     npm start
+   ```
