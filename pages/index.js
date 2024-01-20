@@ -43,7 +43,7 @@ export default function Home() {
         {isLoading ? (
           <Loader />
         ) : (
-          <div className="h-full">
+          <div className="h-full w-full">
             {error ? (
               <div className="text-center">
                 <h4 className="text-2xl text-red-600">Something went wrong!</h4>
